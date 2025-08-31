@@ -29,6 +29,10 @@ pip install -r requirements.txt
 🚀 Running the App
 python src/main.py
 
+📊 Database Structure
+The SQLite DB (INFO.db) contains a demo schema like detected license plates and related details.
+Use src/setup_db.py to reset or customize the schema.
+
 🔒 Note on Keys
 
 API keys (keys/vision_keys.json) are excluded for security.
