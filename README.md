@@ -7,6 +7,8 @@ It combines **OpenCV** for image processing, **OCR** (Google Vision or Tesseract
 
 The project is extensible, ideal for learning, research, or as a base for production-grade traffic monitoring systems.  
 
+The publication link: https://www.ijream.org/IJREAM_V06I01.html
+
 ---
 
 # 📂 Project Structure
