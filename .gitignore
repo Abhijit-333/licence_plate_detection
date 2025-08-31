@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+src/setup_db.py
+# Virtual envs
+.venv/
+env/
+*.conda/
+
+# Data
+data/*.avi
+data/frames/
+data/INFO.db
+
+# API keys
+keys/
+*.json
