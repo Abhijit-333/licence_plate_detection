@@ -9,7 +9,7 @@ env/
 
 # Data
 data/*.avi
-data/INFO.db
+
 
 # API keys
 keys/
