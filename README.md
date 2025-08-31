@@ -3,7 +3,7 @@
 # 🚗🔍 Licence Plate Detection with OCR
 
 This project demonstrates a **computer vision pipeline** for detecting and recognizing license plates from video input.  
-It combines **OpenCV** for image processing, **OCR** (Google Vision or Tesseract) for text extraction, and an **SQLite database** for storing results.  
+It combines **OpenCV** for image processing, **OCR** (Google Vision) for text extraction, and an **SQLite database** for storing results.  
 
 The project is extensible, ideal for learning, research, or as a base for production-grade traffic monitoring systems.  
 
